@@ -1,6 +1,12 @@
-# Common DevX
+# ⚠️ [Archived] ⚠️ Nice To Know You
 
-> Updated on 2025-08-11 by @KemingHe
+> [!WARNING]
+>
+> **This repository is archived and no longer maintained.**
+>
+> - **Archived**: 2026-02-15 by [@KemingHe](https://github.com/KemingHe)
+> - **Archive Reason**: Project abandoned and never progressed since [KemingHe/common-devx](https://github.com/KemingHe/common-devx) templating
+> - **Inquries and Corrections**: Email keminghe[dot]career[at]gmail[dot]com
 
 Ready-to-use templates and AI prompts for consistent documentation, standardized workflows, and faster project setup with zero dependencies. [[Watch demo on YouTube]](https://youtu.be/Mfx0DFsCcTw)
 
